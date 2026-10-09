@@ -1,0 +1,22 @@
+[
+  {"id": "hero-premium", "should_trigger": true, "prompt": "The hero on this page looks flat and generic. Make it feel premium, like a specialty roaster's site."},
+  {"id": "card-visuals", "should_trigger": true, "prompt": "The three product cards are just text. Give each one a visual so they actually sell the coffee."},
+  {"id": "handcrafted-redesign", "should_trigger": true, "prompt": "Redesign this landing page with a warmer, more handcrafted feel. Go all out on the visuals."},
+  {"id": "origin-section", "should_trigger": true, "prompt": "Add an 'About the roastery' section with something visual that shows where the beans come from."},
+  {"id": "logo", "should_trigger": true, "prompt": "Northside Roasters needs a logo for the header. Make one."},
+  {"id": "card-icons", "should_trigger": true, "prompt": "Add a small icon to each product card: whole bean, ground, and cold brew. They should look like a set."},
+  {"id": "paper-texture", "should_trigger": true, "prompt": "The page background is a flat colour. Give it a subtle recycled-paper texture behind the content."},
+  {"id": "parallax-hero", "should_trigger": true, "prompt": "Build a layered parallax hero where a mug, some beans and rising steam move at different speeds as you scroll."},
+  {"id": "share-card", "should_trigger": true, "prompt": "Create a social share card for this page so links look good when posted on LinkedIn and X."},
+  {"id": "404-page", "should_trigger": true, "prompt": "Add a friendly 404 page to the site with an illustration of a spilled coffee cup."},
+  {"id": "explicit-hero", "should_trigger": true, "prompt": "Generate a hero image of freshly roasted beans for this page and use it."},
+  {"id": "mascot", "should_trigger": true, "prompt": "We want a little mascot character for the brand to use across the site. Create it and put it in the footer."},
+  {"id": "typo", "should_trigger": false, "prompt": "Fix the typo 'Roastres' in index.html."},
+  {"id": "tablet-grid", "should_trigger": false, "prompt": "The three product cards stack badly on tablets. Fix the grid so they sit two per row between 600 and 900px."},
+  {"id": "accessibility", "should_trigger": false, "prompt": "Check this page for accessibility problems and fix the contrast and the heading order."},
+  {"id": "hero-copy", "should_trigger": false, "prompt": "Rewrite the hero headline and subheading so they are punchier. Keep each under 12 words."},
+  {"id": "dark-mode", "should_trigger": false, "prompt": "Add a dark mode that follows the system setting, using CSS variables."},
+  {"id": "newsletter-form", "should_trigger": false, "prompt": "Add a newsletter signup form to the footer with email validation."},
+  {"id": "image-perf", "should_trigger": false, "prompt": "The page loads slowly. Add lazy loading and explicit width and height attributes to any images on it."},
+  {"id": "svg-chart", "should_trigger": false, "prompt": "Add a small inline SVG bar chart comparing caffeine in the three coffees: 95, 120 and 200 mg."}
+]

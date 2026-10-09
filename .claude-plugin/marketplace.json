@@ -1,0 +1,40 @@
+{
+  "name": "razandalex-skills",
+  "description": "Six Claude Code skills for images, design, reporting, planning and plain writing.",
+  "owner": {
+    "name": "RazAndAlex",
+    "url": "https://github.com/RazAndAlex"
+  },
+  "plugins": [
+    {
+      "name": "image-gen",
+      "description": "Draw image assets through the Codex CLI.",
+      "source": "./plugins/image-gen"
+    },
+    {
+      "name": "presentation",
+      "description": "Build evidence pages that help the reader make a decision.",
+      "source": "./plugins/presentation"
+    },
+    {
+      "name": "design-round",
+      "description": "Build and compare distinct visual options with gated review.",
+      "source": "./plugins/design-round"
+    },
+    {
+      "name": "reach-check",
+      "description": "Check whether a plan can reach its goal before running it.",
+      "source": "./plugins/reach-check"
+    },
+    {
+      "name": "ste-writing",
+      "description": "Rewrite English prose into Simplified Technical English. By Ege Çelebi (MIT).",
+      "source": "./plugins/ste-writing"
+    },
+    {
+      "name": "its-writing",
+      "description": "Rewrite Italian prose into plain technical Italian. Adapted from Ege Çelebi's ste-writing (MIT).",
+      "source": "./plugins/its-writing"
+    }
+  ]
+}

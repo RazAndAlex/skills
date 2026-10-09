@@ -1,0 +1,1 @@
+You can draw real images in this session with the image-gen skill. Whenever frontend, UI or brand work needs a visual asset (logo, icon, illustration, mascot, hero or product image, texture, background, share card), load image-gen and draw it before hand-coding SVG or CSS art.

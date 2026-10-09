@@ -1,0 +1,11 @@
+{
+  "name": "design-round",
+  "version": "0.1.0",
+  "description": "Build and compare distinct visual options with gated review.",
+  "author": {
+    "name": "RazAndAlex",
+    "url": "https://github.com/RazAndAlex"
+  },
+  "repository": "https://github.com/RazAndAlex/skills",
+  "license": "MIT"
+}

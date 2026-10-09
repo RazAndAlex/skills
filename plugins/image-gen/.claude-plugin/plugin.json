@@ -1,0 +1,11 @@
+{
+  "name": "image-gen",
+  "version": "0.1.0",
+  "description": "Draw image assets through the Codex CLI.",
+  "author": {
+    "name": "RazAndAlex",
+    "url": "https://github.com/RazAndAlex"
+  },
+  "repository": "https://github.com/RazAndAlex/skills",
+  "license": "MIT"
+}

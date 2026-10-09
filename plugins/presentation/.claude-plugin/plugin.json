@@ -1,0 +1,11 @@
+{
+  "name": "presentation",
+  "version": "0.1.0",
+  "description": "Build evidence pages that help the reader make a decision.",
+  "author": {
+    "name": "RazAndAlex",
+    "url": "https://github.com/RazAndAlex"
+  },
+  "repository": "https://github.com/RazAndAlex/skills",
+  "license": "MIT"
+}

@@ -1,0 +1,5 @@
+*.bak*
+*.backup*
+*.before-*
+__pycache__/
+*.local.md

@@ -1,0 +1,11 @@
+{
+  "name": "its-writing",
+  "version": "0.1.0",
+  "description": "Rewrite Italian prose into plain technical Italian. Adapted from Ege Çelebi's ste-writing (MIT).",
+  "author": {
+    "name": "RazAndAlex",
+    "url": "https://github.com/RazAndAlex"
+  },
+  "repository": "https://github.com/RazAndAlex/skills",
+  "license": "MIT"
+}

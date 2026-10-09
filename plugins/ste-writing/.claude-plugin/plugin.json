@@ -1,0 +1,11 @@
+{
+  "name": "ste-writing",
+  "version": "0.1.0",
+  "description": "Rewrite prose into ASD-STE100 Simplified Technical English. By Ege Çelebi (MIT).",
+  "author": {
+    "name": "Ege Çelebi",
+    "url": "https://github.com/woosal1337"
+  },
+  "repository": "https://github.com/woosal1337/blog",
+  "license": "MIT"
+}

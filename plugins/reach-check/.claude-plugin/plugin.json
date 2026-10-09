@@ -1,0 +1,11 @@
+{
+  "name": "reach-check",
+  "version": "0.1.0",
+  "description": "Check whether a plan can reach its goal before running it.",
+  "author": {
+    "name": "RazAndAlex",
+    "url": "https://github.com/RazAndAlex"
+  },
+  "repository": "https://github.com/RazAndAlex/skills",
+  "license": "MIT"
+}
